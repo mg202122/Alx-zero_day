@@ -1,1 +1,4 @@
-git commit -m 'How to be up to date in git'
+$ git add <file_name>
+$ git commit -m "Initial commit"
+$ git push origin main
+
